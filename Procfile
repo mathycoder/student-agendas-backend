@@ -1,1 +1,1 @@
-web: bin/rails server -p 3001 -e $RAILS_ENV
+api: bundle exec rails s -p 3001
